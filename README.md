@@ -1,40 +1,55 @@
-<img src="Anime.jpg" alt="GitHub Banner" width="100%" />
+<img src="Anime.jpg" alt="Hemavarna's Anime Banner" width="100%" />
 
-<h1 align="center">👋🏼 Hello World! I'm <span style="color:#9f5afd;">Hemavarna</span></h1>
-<h3 align="center">Cybersecurity Enthusiast | Future CISO 🛡️ | SOC Explorer 🔍</h3>
+<h1 align="center">✨ Kon'nichiwa! I'm <span style="color:#f472b6;">Hemavarna</span> 🥷🏻💻</h1>
+<h3 align="center">Cybersecurity Enthusiast ⚔️ | Otaku Developer 🌸 | Future CISO 💼</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9F5AFD&center=true&vCenter=true&multiline=true&lines=Cybersecurity+Learner+%F0%9F%94%90;SOC+Analyst+in+the+Making+%F0%9F%94%AE;Passionate+about+Threat+Detection+%F0%9F%92%A1;Writing+to+Share+Knowledge+%F0%9F%93%9D;Aspiring+CISO+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=28&duration=4000&pause=1000&color=F472B6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%94%90+Cybersecurity+Student+by+Day;🌙+Anime+Lover+by+Night;💻+Defending+the+Digital+World;🌸+Scripting+with+Style+%26+Security" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me:
-- 🎯 **Preparing for NPTEL - Network Security**
-- 🕵🏼‍♀️ Learning real-time **SOC** workflows and log analysis
-- 🔐 Practicing cryptographic challenges and ethical hacking labs
-- ✍🏼 Regularly sharing insights on [**Medium**](https://hemavarnas.medium.com/)
-- 🌱 Dreaming big: 🧢 Future **CISO**, and cybersecurity leader
-- 🌐 Building **Learnify** – a smart learning platform for tech education
+## 🌸 About Me:
+- 🎯 Preparing for **NPTEL Network Security**
+- 🔐 Passionate about SOC operations & threat detection
+- 🧠 Studying crypto, logs, and ethical hacking with heart
+- ✍🏼 Blogging my journey on [**Medium**](https://hemavarnas.medium.com/)
+- 👑 Dreaming of becoming a badass **CISO**
+- 🎌 Anime I vibe with: *Steins;Gate, Psycho-Pass, Ghost in the Shell*
 
 ---
 
-## 💻 Tech Stack & Tools:
+## 🛡️ Tech Arsenal:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,python,c,cpp,aws,azure,github,figma,kali,splunk,wireshark,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nodejs,python,c,cpp,aws,azure,github,linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-4E8ACF?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats:
+## 🌟 Anime Flair Badges:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemavarnas25&show_icons=true&theme=radical&hide_border=true" alt="Hemavarna's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemavarnas25&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/waifu-secured-%23ff69b4?style=for-the-badge&logo=anime-news-network&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nani%3F-404%20Threats%20Not%20Found!-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerLevel-Over9000-%23ff7f50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HackStyle-Kawaii%20Cyber-%23f472b6?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔄 Contribution Snake:
+## 🌀 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemavarnas25&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemavarnas25&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Yamete~ it’s moving!):
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
@@ -43,29 +58,30 @@
 
 ---
 
-## 📫 Let's Connect:
+## 📚 Latest Blog Post:
+📝 [**Mastering SIEM: How SOC Analysts Use Splunk to Detect Threats**](https://hemavarnas.medium.com/)  
+> Because in this anime, the **threats are real**, and I’m the main character 🎯
+
+---
+
+## 💌 Let's Be Senpai & Kouhai:
 <p align="center">
   <a href="mailto:hemavarnas25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Hemavarna-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemavarnas25/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemavarna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@hemavarnas">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hemavarna-s25/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Blogging-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact:
-> “In a world full of threats, **I choose to be the firewall.** 🧱🚫”
+## 💖 Final Words:
+> “Like a true anime heroine, I’ll debug the world one threat at a time. Let's build a safer digital realm—together! ✨”
 
 ---
 
-## 🎉 Featured Blog:
-> ✨ [**Mastering SIEM: How SOC Analysts Use Splunk to Detect Threats**](https://hemavarnas.medium.com/mastering-siem-how-soc-analysts-use-splunk-to-detect-threats-xxxxxx) — _Read now on Medium!_
-
----
-
-> Made with ❤️ by [Hemavarna](https://github.com/hemavarnas25)
+> _Made with 💜 + 🍵 by [Hemavarna](https://github.com/hemavarnas25)_
