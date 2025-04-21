@@ -86,3 +86,13 @@
 
 ## 🎮 Fun Vibes
 
+> _“Hack like a pro. Glow like neon. Shine like the dark web.”_ 🌙  
+> — 🐉 Your friendly cyberpunk warrior 💻⚡🛡️
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=✨%20Built%20with%20Cyber%20Soul%20✨&fontSize=30&fontAlignY=40&desc=Hemavarna%20⚡️%20Learnify%20%7C%20Cyberpunk%20Edition&descAlignY=70&animation=twinkling&fontColor=FFF" />
+</p>
+
+
