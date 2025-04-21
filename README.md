@@ -116,7 +116,3 @@
 > 🔥 Always in Dark Mode. Always in Cyber Mode.
 
 ---
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Orbitron&family=JetBrains+Mono&display=swap');
-</style>
