@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=%F0%9F%94%A5+Hemavarna+Here+-+Cyberpunk+Securer+of+Tomorrow!;%F0%9F%94%91+Cybersecurity+%7C+Cloud+Security+%7C+SOC+Analyst;%F0%9F%94%AF+Hacktivating+Knowledge+%7C+Building+Learnify;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=%F0%9F%94%A5+Hemavarna+Here+-+Cyberpunk+Securer+of+Tomorrow!;%F0%9F%94%91+Cybersecurity+%7C+Cloud+Security+%7C+SOC+Analyst;%F0%9F%94%AF+Hacktivating+Knowledge+%7C+Building+Learnify;" alt="Typing animation" />
 </h1>
 
 ---
@@ -27,6 +27,31 @@
 
 ---
 
+## 🔐 Toolkit of the Cyber Realm
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-3E4C59?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FE7E02?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-FF007F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-3F51B5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-8E44AD?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## ✨ Cyber Brand Logo
+
+<div align="center">
+  <img src="Green Modern Marketing Logo (1).png" width="200" style="filter: drop-shadow(0px 0px 20px #00FFF7);" />
+  <h2 style="color: #00FFF7; font-family: 'Orbitron', sans-serif;">
+    Learnify ⚡ Empowering Cyber Learners
+  </h2>
+</div>
+
+---
+
 ## 🧪 Current Projects
 
 | 🔮 Project | 💡 Description |
@@ -40,7 +65,7 @@
 ## 🧠 Certs & Goals
 
 🧾 **Learning:**  
-- [x] NPTEL Network Security (📅 Exam: April 27)  
+- [x] NPTEL Network Security 
 - [ ] CCNA (May – June)  
 - [ ] JNCIA-Junos  
 - [ ] AWS Certified Security  
@@ -50,7 +75,7 @@
 
 ---
 
-## ✨ Contact Me & Collab Links
+## ✉️ Contact Me & Collab
 
 <div align="center">
 
@@ -86,19 +111,12 @@
 
 ## 🎮 Fun Vibes
 
-> _“Hack like a pro. Glow like neon. Shine like the dark web.”_ 🌙  
-> — 🐉 Your friendly cyberpunk warrior 💻⚡🛡️
+> 🌐 Welcome to my terminal. Type `learnify -launch` to begin.  
+> 💻 Let’s hack the limits of learning.  
+> 🔥 Always in Dark Mode. Always in Cyber Mode.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=✨%20Built%20with%20Cyber%20Soul%20✨&fontSize=30&fontAlignY=40&desc=Hemavarna%20⚡️%20Learnify%20%7C%20Cyberpunk%20Edition&descAlignY=70&animation=twinkling&fontColor=FFF" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
-</picture>
-
-
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron&family=JetBrains+Mono&display=swap');
+</style>
