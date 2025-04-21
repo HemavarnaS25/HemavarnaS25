@@ -95,4 +95,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=✨%20Built%20with%20Cyber%20Soul%20✨&fontSize=30&fontAlignY=40&desc=Hemavarna%20⚡️%20Learnify%20%7C%20Cyberpunk%20Edition&descAlignY=70&animation=twinkling&fontColor=FFF" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
+</picture>
+
 
