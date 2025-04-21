@@ -1,39 +1,71 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Hemavarna, a Cybersecurity Enthusiast 👋🏼:
-🛡️ currently preparing for my NPTEL exam focused on **network security**<br>💻 exploring SOC (Security Operations Centre) concepts<br>🔐 working on cryptographic challenges and cybersecurity tools<br>📚 regularly writing articles on [Medium](https://hemavarnas.medium.com/) <br>🌟 striving for leadership roles like **CISO** in cybersecurity
+<h1 align="center">👋🏼 Hello World! I'm <span style="color:#9f5afd;">Hemavarna</span></h1>
+<h3 align="center">Cybersecurity Enthusiast | Future CISO 🛡️ | SOC Explorer 🔍</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/kali-linux-%23555.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%232256a0.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/wireshark-%2322A4C9.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Metasploit](https://img.shields.io/badge/metasploit-%23009ACD.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9F5AFD&center=true&vCenter=true&multiline=true&lines=Cybersecurity+Learner+%F0%9F%94%90;SOC+Analyst+in+the+Making+%F0%9F%94%AE;Passionate+about+Threat+Detection+%F0%9F%92%A1;Writing+to+Share+Knowledge+%F0%9F%93%9D;Aspiring+CISO+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
-# 🌟 Connect With Me:
-<a href="mailto:hemavarnas25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-<a href="https://medium.com/@hemavarnas" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-</a>
-<a href="https://www.linkedin.com/in/hemavarnas25/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+---
 
+## 🧠 About Me:
+- 🎯 **Preparing for NPTEL - Network Security**
+- 🕵🏼‍♀️ Learning real-time **SOC** workflows and log analysis
+- 🔐 Practicing cryptographic challenges and ethical hacking labs
+- ✍🏼 Regularly sharing insights on [**Medium**](https://hemavarnas.medium.com/)
+- 🌱 Dreaming big: 🧢 Future **CISO**, and cybersecurity leader
+- 🌐 Building **Learnify** – a smart learning platform for tech education
+
+---
+
+## 💻 Tech Stack & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,python,c,cpp,aws,azure,github,figma,kali,splunk,wireshark,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemavarnas25&show_icons=true&theme=radical&hide_border=true" alt="Hemavarna's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemavarnas25&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🔄 Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-snake.svg" />
 </picture>
+
+---
+
+## 📫 Let's Connect:
+<p align="center">
+  <a href="mailto:hemavarnas25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@hemavarnas">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemavarnas25/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact:
+> “In a world full of threats, **I choose to be the firewall.** 🧱🚫”
+
+---
+
+## 🎉 Featured Blog:
+> ✨ [**Mastering SIEM: How SOC Analysts Use Splunk to Detect Threats**](https://hemavarnas.medium.com/mastering-siem-how-soc-analysts-use-splunk-to-detect-threats-xxxxxx) — _Read now on Medium!_
+
+---
+
+> Made with ❤️ by [Hemavarna](https://github.com/hemavarnas25)
