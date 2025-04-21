@@ -51,7 +51,7 @@
   <a href="https://medium.com/@hemavarnas">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hemavarnas25/">
+  <a href="https://www.linkedin.com/in/hemavarna-s25/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
