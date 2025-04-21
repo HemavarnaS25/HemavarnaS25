@@ -1,4 +1,4 @@
-<img src="anime.jpg" alt="GitHub Banner" width="100%" />
+<img src="Anime.jpg" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">👋🏼 Hello World! I'm <span style="color:#9f5afd;">Hemavarna</span></h1>
 <h3 align="center">Cybersecurity Enthusiast | Future CISO 🛡️ | SOC Explorer 🔍</h3>
