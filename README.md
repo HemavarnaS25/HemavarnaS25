@@ -3,16 +3,17 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=%F0%9F%94%A5+Hemavarna+Here+-+Cyberpunk+Securer+of+Tomorrow!;%F0%9F%94%91+Cybersecurity+%7C+Cloud+Security+%7C+SOC+Analyst;%F0%9F%94%AF+Hacktivating+Knowledge+%7C+Building+Learnify;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=%F0%9F%94%A5+Hemavarna+S+-+Cyber+Defender+in+Style!;%F0%9F%94%91+SOC+Analyst+Track+%7C+Blue+Teamer+%7C+Cloud+%26+IoT+Security;%F0%9F%93%B1+Top+4%25+TryHackMe+%7C+CSE+'27+%7C+Tech+Blogger;" alt="Typing animation" />
 </h1>
 
 ---
 
 <div align="center">
 
-🌈 <b>Cybersecurity Lover | Cloud Defender | SOC Analyst in Progress</b>  
+🌈 <b>SOC Analyst Track | Blue Teamer | Top 4% TryHackMe</b>  
+📡 <b>Computer Networks | Cloud & IoT Security | Tech Blogger at Medium</b>  
 ⚡ <i>“Code hard. Defend harder. Secure like a legend.”</i> ⚡  
-🌌 <b>Catch me in the neon-lit world of cyber threats and rainbow shields.</b>  
+🌌 <b>Dreaming in packets and securing in style.</b>  
 🔮 <b>Frontend: React + Vite | Backend: Node + MongoDB</b>
 
 </div>
@@ -59,19 +60,23 @@
 | *Learnify LMS* | A full-stack educational platform to empower instructors and students. |
 | *Phishing Simulator* | Realistic phishing email generator with awareness dashboard. |
 | *Log Analysis System* | Centralized log collector & threat visualizer using Splunk. |
+| *Annamolly Detection* | Behavioral malware detection using threat intel insights. |
+| *Cybersecurity AI Chatbot* | AI-based doubt-clearing assistant for infosec learners. |
 
 ---
 
 ## 🧠 Certs & Goals
 
 🧾 *Learning:*  
-- [x] NPTEL Network Security 
+- [x] NPTEL Network Security  
 - [ ] CCNA (May – June)  
 - [ ] JNCIA-Junos  
-- [ ] AWS Certified Security  
+- [x] AWS Cloud Security (On-going)  
+- [ ] AZ-500 (On-going)  
+- [ ] CEH (On-going)  
 - [ ] CompTIA Security+
 
-🎯 *Mission:* Become a 🔐 *Cloud Security Engineer* & 🔭 *SOC Analyst*
+🎯 *Mission:* Become a 🔐 *Cloud Security Engineer* & 🔭 *Elite Blue Teamer*
 
 ---
 
@@ -111,7 +116,7 @@
 
 ## 🎮 Fun Vibes
 
-> 🌐 Welcome to my terminal. Type learnify -launch to begin.  
+> 🌐 Welcome to my terminal. Type `learnify -launch` to begin.  
 > 💻 Let’s hack the limits of learning.  
 > 🔥 Always in Dark Mode. Always in Cyber Mode.
 
