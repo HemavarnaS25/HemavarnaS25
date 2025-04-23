@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="Anime.jpg" width="100%" alt="Cyberpunk Banner">
+  <img src="Anime.jpg" width="70%" style="border-radius: 10px; animation: pulse 2s infinite;" alt="Cyberpunk Banner" />
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 0px #00fff7; }
+  50% { transform: scale(1.02); box-shadow: 0 0 20px #00fff7; }
+  100% { transform: scale(1); box-shadow: 0 0 0px #00fff7; }
+}
+</style>
 
 <h1 align="center" style="font-family:Orbitron, sans-serif;">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Hemavarna+S+%7C+SOC+Analyst+Track+%7C+Blue+Teamer;Top+4%25+TryHackMe+%7C+Cloud+%26+IoT+Security+%7C+CSE+%2727;Tech+Blogger+%7C+Computer+Networks+%7C+Cyberpunk+Soul" alt="Typing animation" />
@@ -53,10 +61,10 @@
 
 ---
 
-## 🎯 Contribution Pulse
+## 🎯 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemavarnas25&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -85,12 +93,6 @@
 > ✨ Welcome to my dark cyber terminal.  
 > Type `init --learnify` to deploy awareness.  
 > 💥 Hack. Defend. Empower.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hemavarnas25/hemavarnas25/output/github-contribution-grid-snake-dark.svg" alt="Animated grid" />
-</p>
 
 ---
 
