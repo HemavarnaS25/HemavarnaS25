@@ -64,8 +64,12 @@
 ## 🌌 Cyber Aesthetic Motion
 
 <p align="center">
-  <img src="https://videocdn.cdnpk.net/videos/8a60815a-ceab-597c-8fd5-9c1097fc1fa3/horizontal/previews/clear/large.mp4?token=exp=1745430673~hmac=a224bbc63f9b194939678cd8df9492881bdebcb3dfb3aff79d69eeb7b39f4f33" width="300px" />
+  <video width="70%" autoplay muted loop style="border-radius: 12px; box-shadow: 0 0 20px #00fff7;">
+    <source src="https://videocdn.cdnpk.net/videos/8a60815a-ceab-597c-8fd5-9c1097fc1fa3/horizontal/previews/clear/large.mp4?token=exp=1745430673~hmac=a224bbc63f9b194939678cd8df9492881bdebcb3dfb3aff79d69eeb7b39f4f33" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 ---
 
