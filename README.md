@@ -10,7 +10,7 @@
 
 <div align="center">
 
-💙 <b>SOC Analyst Track | Blue Teamer | Top 4% TryHackMe</b>  
+💙 <b>SOC Analyst Track | Blue Teamer | Top 3% TryHackMe</b>  
 🌐 <i>Computer Networks | Cloud & IoT Security | Tech Blogger in Medium</i>  
 🎓 <b>CSE ‘27 | Driven by Curiosity, Fueled by Cyber</b>  
 ⚔️ <b>Cyberpunk mode: ON</b>
@@ -88,11 +88,6 @@
 > Type `init --learnify` to deploy awareness.  
 > 💥 Hack. Defend. Empower.
 
----
-
-
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:04002B&height=120&section=footer&animation=twinkling" />
