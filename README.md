@@ -32,7 +32,7 @@
 
 - 🛡 **AWS Cloud Security**
 - 🛡 **Azure Security (AZ-500)**
-- 🛡 **Certified Ethical Hacker (CEH)**
+- 🛡 **SC - 900 **
 
 ---
 
