@@ -61,12 +61,6 @@
 
 ---
 
-## 🌌 Cyber Aesthetic Motion
-
-<p align="center">
-  <img src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" width="300px" />
-</p>
-
 
 
 ---
@@ -82,11 +76,7 @@
 
 ---
 
-## 🌠 Terminal Vibes
 
-> ✨ Welcome to my dark cyber terminal.  
-> Type `init --learnify` to deploy awareness.  
-> 💥 Hack. Defend. Empower.
 
 
 <p align="center">
