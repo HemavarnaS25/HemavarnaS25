@@ -32,7 +32,7 @@
 
 - 🛡 **AWS Cloud Security**
 - 🛡 **Azure Security (AZ-500)**
-- 🛡 **SC - 900 **
+- 🛡 **SC - 900**
 
 ---
 
