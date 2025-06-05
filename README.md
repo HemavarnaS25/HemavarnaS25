@@ -1,9 +1,16 @@
+<!-- HEADER GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Hemavarna S</h1>
+
 <p align="center">
   <img src="Anime.jpg" width="100%" alt="Cyberpunk Banner">
 </p>
 
 <h1 align="center" style="font-family:Orbitron, sans-serif;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Hemavarna+S+%7C+SOC+Analyst+Track+%7C+Blue+Teamer;Top+4%25+TryHackMe+%7C+Cloud+%26+IoT+Security+%7C+CSE+%2727;Tech+Blogger+%7C+Computer+Networks+%7C+Cyberpunk+Soul" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Hemavarna+S+%7C+SOC+Analyst+Track+%7C+Blue+Teamer;Top+3%25+TryHackMe+%7C+Cloud+%26+IoT+Security+%7C+CSE+%2727;Tech+Blogger+%7C+Computer+Networks+%7C+Cyberpunk+Soul" alt="Typing animation" />
 </h1>
 
 ---
@@ -23,8 +30,8 @@
 
 | 🌟 Project | ⚙ Description |
 |-----------|----------------|
-| 🕵️‍♀️ **Annamolly Detection** | AI-based anomaly detector for suspicious patterns. |
-| 🤖 **Cybersecurity Chatbot** | AI-powered bot for doubt-clearing & awareness. |
+| 🕵️‍♀️ **HexNex** | Cybersecurity SOC Learning platform with HexNex AI for asking cybersecurity doubts. |
+
 
 ---
 
@@ -61,7 +68,9 @@
 
 ---
 
+## 🏅 Badges
 
+[![An image of Hemavarna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemavarnas25)](https://holopin.io/@hemavarnas25)
 
 ---
 
@@ -76,8 +85,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemavarnas25&label=Profile%20views&color=0e75b6&style=flat" alt="hemavarnas25"/>
+</p>
 
-
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:04002B&height=120&section=footer&animation=twinkling" />
