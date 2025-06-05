@@ -23,8 +23,8 @@
 
 | 🌟 Project | ⚙ Description |
 |-----------|----------------|
-| 🕵️‍♀️ **Annamolly Detection** | AI-based anomaly detector for suspicious patterns. |
-| 🤖 **Cybersecurity Chatbot** | AI-powered bot for doubt-clearing & awareness. |
+| 🕵️‍♀️ **HexNex** | Cybersecurity Learning platform for SOC and HexNex AI to help regarding to cybersecurity doubts. |
+
 
 ---
 
